@@ -25,7 +25,7 @@
                 <li><a href="#about" class="menu-btn">About</a></li>
                 <li><a href="#services" class="menu-btn">Services</a></li>
                 <li><a href="#skills" class="menu-btn">Skills</a></li>
-                <li><a href="#teams" class="menu-btn">Teams</a></li>
+                <li><a href="#teams" class="menu-btn">Team (coming soon)</a></li>
                 <li><a href="#contact" class="menu-btn">Contact</a></li>
             </ul>
             <div class="menu-btn">
@@ -55,17 +55,17 @@
                     <img src="images/Profile Picture.png" alt="">
                 </div>
                 <div class="column right">
-                    <div class="text">I'm Dineo and I am a <span class="typing-2"></span></div>
+                    <div class="text">I'm Yousif and I am a <span class="typing-2"></span></div>
                     <p>
-                        I Have a Passion for Being Creative, More Specifically trying to make stuff, I love to Create Youtube videos and Games.
+                        I Have a Passion for Being Creative, More Specifically trying to make stuff, I love to Create softwares and Games.
 
 
 
                     </p>
 
-                    <p><br />      I Speak English and Arabic.</p>
+                    <p><br />      I Speak English,Arabic and turkish.</p>
 
-                    <p><br />      I am a Humble, Loyal and I like to think likeable Person.</p>
+                    <p><br />      I am a Humble, Loyal and I like to think im likeable Person.</p>
                     <a href="#"></a>
                 </div>
             </div>
@@ -81,14 +81,14 @@
                     <div class="box">
                         <i class="fas fa-paint-brush"></i>
                         <div class="text">Art</div>
-                        <p> I am an good pixel artist i can paint anything you want .</p>
+                        <p> I am an good pixel artist i can make a good looking player, background etc .</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-chart-line"></i>
-                        <div class="text">Advertising</div>
-                        <p> I have been Advertising for games in years.i can make your game successful</p>
+                        <div class="text">Website Development</div>
+                        <p> ..</p>
                     </div>
                 </div>
                 <div class="card">
@@ -109,7 +109,7 @@
             <h2 class="title">My skills</h2>
             <div class="skills-content">
                 <div class="column left">
-                    <div class="text">My Best Qualities and Skills</div>
+                    <div class="text">My Best Skills</div>
                     <p> </p>
                     <a href="#">Read more</a>
                 </div>
@@ -211,7 +211,7 @@
                             <i class="fas fa-user"></i>
                             <div class="info">
                                 <div class="head">Name</div>
-                                <div class="sub-title">Dineo(not my real one )</div>
+                                <div class="sub-title">Yousif</div>
                             </div>
                         </div>
                         <div class="row">
@@ -243,3 +243,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+''
