@@ -1,4 +1,4 @@
-<!-- Created By CodingNepal -->
+<!-- Created By CodingNepal and reveersed engineered by yousif/dineo -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -243,4 +243,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-''
