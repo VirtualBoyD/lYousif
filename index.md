@@ -88,7 +88,7 @@
                     <div class="box">
                         <i class="fas fa-chart-line"></i>
                         <div class="text">Website Development</div>
-                        <p> ..</p>
+                        <p>im a goood web devoloper that can make a professional in just 2 weeks !!</p>
                     </div>
                 </div>
                 <div class="card">
@@ -116,39 +116,20 @@
                 <div class="column right">
                     <div class="bars">
                         <div class="info">
-                            <span>HTML CSS </span>
-                            <span>83%</span>
+                            <span>HTML CSS javascript </span>
+                            <span>64%</span>
                         </div>
                         <div class="line html"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
-                            <span>comunication</span>
-                            <span>76%</span>
+                            <span>unity and c#</span>
+                            <span>83%</span>
                         </div>
                         <div class="line css"></div>
                     </div>
-                    <div class="bars">
-                        <div class="info">
-                            <span>c#</span>
-                            <span>80%</span>
-                        </div>
-                        <div class="line js"></div>
-                    </div>
-                    <div class="bars">
-                        <div class="info">
-                            <span>Art</span>
-                            <span>70%</span>
-                        </div>
-                        <div class="line php"></div>
-                    </div>
-                    <div class="bars">
-                        <div class="info">
-                            <span>Unity</span>
-                            <span>90%</span>
-                        </div>
-                        <div class="line mysql"></div>
-                    </div>
+      
+                 
                 </div>
             </div>
         </div>
@@ -162,21 +143,21 @@
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-1.jpeg" alt="">
-                        <div class="text">ripio</div>
+                        <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-2.jpeg" alt="">
-                        <div class="text">crack</div>
+                        <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-3.jpeg" alt="">
-                        <div class="text">faisal</div>
+                        <div class="text">Someone namel</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
@@ -243,4 +224,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-''
